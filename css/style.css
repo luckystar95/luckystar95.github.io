@@ -95,6 +95,7 @@ address span{
 .details_header ul li a{
 	padding:0 1em;
 	color:#333;
+	margin-left: -34px;
 }
 .details_header ul li a:hover{
 	color:#6ecadc;
